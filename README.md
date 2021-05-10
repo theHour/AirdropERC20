@@ -1,3 +1,4 @@
     # Airdrop contract
 
-    Simple Airdro Contract for token distribution.
+    Simple Airdro Contract for token distribution.ok
+    
